@@ -1,0 +1,165 @@
+body{
+    align-items: center;
+    background-color: rgb(100, 100, 100);
+
+}
+#edipo{
+    background-image: url("imagenes/fondo.jpg");
+    margin: 30px;
+    padding: 28px;
+    text-align: center;
+    justify-content: space-between;
+    border-color: 14px solid black;
+    border-style: dashed;
+}
+.d1{
+    border-radius: 50%;
+}
+.e1{
+background-color: azure;
+height:50px;
+width:250px;
+border-radius: 10px;
+display:inline-table;
+text-shadow: 6px 6px 6px grey;
+font-family: "Jersey 20", sans seriff;
+align-content: center;
+padding-top: 14px;
+text-align: center;
+}
+#kie1{
+    background-color: white;
+    border: 2px solid black;
+    box-shadow: -5px 4px 6px rgb(68, 68, 68);
+    box-shadow: -5px 4px rgb(68, 68, 68);
+    box-shadow: -5px 4px 4px rgb(68, 68, 68);
+    text-align: center;
+
+
+}
+.iq{
+    font-family: "comfortaa", sans-serif;
+    align-content: center;
+}
+.beck{
+    height:500px;
+    width: 500px;
+    box-shadow: 10px 6px rgb(68, 68, 68);
+    box-shadow: 10px 6px 4px rgb(68, 68, 68);
+    box-shadow: 10px 6px 4px rgb(68, 68, 68);
+    text-align: center;
+    flex-direction: row;
+    align-self:flex-start;
+    margin: auto;
+
+}
+.a1{
+    border: 5px solid black;
+    border-style: double;
+    height:220px;
+    align-self: center;
+}
+#flash, #break{
+    padding: 8px;
+    display: flex;
+    border-style: dashed;
+    border: 5px solid black;
+}
+#pel,#cel,#bel{
+    height:485px;
+    padding: 6px;
+    width: 350px;
+    border: 2px solid black;
+    text-align: center;
+    font-family: "outfit", sans seriff;
+    flex-direction: row;
+    align-self:flex-start;
+    padding: 9px;
+    margin: auto;
+}
+.t1{
+    background-color: rgb(255, 81, 0);
+    color: white;
+    padding: 5px;
+}
+#pel{
+    background-color: rgb(255, 212, 187);
+}
+.t2{
+    background-color: rgb(54, 148, 255);
+    color: white;
+    padding: 5px;
+}
+#cel{
+    background-color: rgb(187, 219, 255);
+}
+.t3{
+    background-color: rgb(74, 204, 23);
+    color: white;
+    padding: 5px;
+}
+#bel{
+    background-color: rgb(198, 255, 187);
+}
+#del,#kel,#mel{
+    height:350px;
+    padding: 6px;
+    width: 350px;
+    border-style: dashed;
+    border: 2px solid black;
+    text-align: center;
+    font-family: "outfit", sans seriff;
+    flex-direction: row;
+    align-self:flex-start;
+    padding: 9px;
+    margin: auto;
+}
+#del{
+    background-color: rgb(255, 233, 221);
+}
+#kel{
+    background-color: rgb(214, 233, 255);
+}
+#mel{
+    background-color: rgb(226, 255, 221);
+}
+.ip{
+font-family: "outfit", sans seriff;
+text-decoration: underline;
+}
+.u6{
+    font-family: "Hedvig Letters Sans", san seriff;
+}
+.t4{
+    background-color: rgb(255, 81, 0);
+    color: white;
+    padding: 5px;
+
+}
+
+.t5{
+    background-color: rgb(54, 148, 255);
+    color: white;
+    padding: 5px;
+}
+.t6{
+    background-color: rgb(74, 204, 23);
+    color: white;
+    padding: 5px;
+}
+.k1,.k2,.k3{
+    height: 20px;
+}
+.tr3{
+    background-color: rgb(164, 255, 255);
+height:50px;
+border-style: dotted;
+border: 2px solid black;
+padding-left: 140px;
+width:470px;
+display:inline-flex;
+font-style: italic;
+font-family: "outfit", sans seriff;
+align-items: center;
+text-align: center;
+}
